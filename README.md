@@ -1,7 +1,6 @@
 # kazehero.github.io
 
-
-This is my first project and my first website. 
+My first project and my first website. 
 
 :)
 
